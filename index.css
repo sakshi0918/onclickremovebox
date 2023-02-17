@@ -1,0 +1,46 @@
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 190px;
+    
+}
+#main>div{
+    
+    
+    height: 100px;
+    width: 120px;
+    margin: 4px;
+    margin-left: 100px;
+    border: 2px solid black;
+}
+#one{
+    background-color: crimson;
+}
+#two{
+    background-color: green;
+}
+#three{
+    background-color: yellow;
+}
+#four{
+    background-color:yellowgreen ;
+}
+#five{
+    background-color:#d6c7a0;
+}
+#six{
+background-color: purple;
+}
+#seven{
+    background-color: brown;
+}
+#eight{
+    background-color: skyblue;
+}
+#nine{
+    background-color: orange;
+}
+#ten{
+    background-color: gray;
+}
